@@ -3,8 +3,8 @@ module github.com/snyk/driftctl
 go 1.17
 
 require (
-	cloud.google.com/go/asset v1.8.0
-	cloud.google.com/go/storage v1.27.0
+	cloud.google.com/go/asset v1.13.0
+	cloud.google.com/go/storage v1.28.1
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.20.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.12.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute v0.2.0
@@ -44,22 +44,27 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.1
 	github.com/yudai/gojsondiff v1.0.0
 	github.com/zclconf/go-cty v1.8.4
 	go.uber.org/atomic v1.4.0
-	golang.org/x/oauth2 v0.1.0
+	golang.org/x/oauth2 v0.7.0
 	golang.org/x/sync v0.1.0
-	google.golang.org/api v0.100.0
-	google.golang.org/genproto v0.0.0-20221025140454-527a21cfbd71
-	google.golang.org/grpc v1.50.1
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/api v0.114.0
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
+	google.golang.org/grpc v1.56.2
+	google.golang.org/protobuf v1.30.0
 )
 
 require (
-	cloud.google.com/go v0.104.0 // indirect
-	cloud.google.com/go/compute v1.10.0 // indirect
-	cloud.google.com/go/iam v0.5.0 // indirect
+	cloud.google.com/go v0.110.0 // indirect
+	cloud.google.com/go/accesscontextmanager v1.7.0 // indirect
+	cloud.google.com/go/compute v1.19.1 // indirect
+	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/iam v0.13.0 // indirect
+	cloud.google.com/go/longrunning v0.4.1 // indirect
+	cloud.google.com/go/orgpolicy v1.10.0 // indirect
+	cloud.google.com/go/osconfig v1.11.0 // indirect
 	github.com/Azure/azure-sdk-for-go v59.0.0+incompatible // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v0.8.1 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
@@ -84,12 +89,12 @@ require (
 	github.com/go-openapi/swag v0.19.5 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/mock v1.6.0 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
-	github.com/googleapis/gax-go/v2 v2.6.0 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
+	github.com/googleapis/gax-go/v2 v2.7.1 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
@@ -124,19 +129,19 @@ require (
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cast v1.3.0 // indirect
 	github.com/spf13/jwalterweatherman v1.0.0 // indirect
-	github.com/stretchr/objx v0.1.1 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/vmihailenco/msgpack/v4 v4.3.12 // indirect
 	github.com/vmihailenco/tagparser v0.1.1 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/zclconf/go-cty-yaml v1.0.2 // indirect
-	go.opencensus.io v0.23.0 // indirect
+	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/net v0.8.0 // indirect
-	golang.org/x/sys v0.6.0 // indirect
-	golang.org/x/text v0.8.0 // indirect
+	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
