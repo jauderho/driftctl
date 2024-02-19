@@ -47,7 +47,7 @@ require (
 	github.com/zclconf/go-cty v1.8.4
 	go.uber.org/atomic v1.4.0
 	golang.org/x/oauth2 v0.7.0
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.6.0
 	google.golang.org/api v0.114.0
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
 	google.golang.org/grpc v1.56.3
