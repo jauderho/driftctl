@@ -3,7 +3,7 @@ module github.com/snyk/driftctl
 go 1.21
 
 require (
-	cloud.google.com/go/asset v1.18.1
+	cloud.google.com/go/asset v1.19.0
 	cloud.google.com/go/storage v1.40.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v0.20.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v0.12.0

@@ -47,8 +47,8 @@ cloud.google.com/go/artifactregistry v1.7.0/go.mod h1:mqTOFOnGZx8EtSqK/ZWcsm/4U8
 cloud.google.com/go/asset v1.5.0/go.mod h1:5mfs8UvcM5wHhqtSv8J1CtxxaQq3AdBxxQi2jGW/K4o=
 cloud.google.com/go/asset v1.7.0/go.mod h1:YbENsRK4+xTiL+Ofoj5Ckf+O17kJtgp3Y3nn4uzZz5s=
 cloud.google.com/go/asset v1.8.0/go.mod h1:mUNGKhiqIdbr8X7KNayoYvyc4HbbFO9URsjbytpUaW0=
-cloud.google.com/go/asset v1.18.1 h1:+NpxL5L53VY91EoJTHeGGXSWEUllf2hhXpCyTnSrd3Q=
-cloud.google.com/go/asset v1.18.1/go.mod h1:QXivw0mVqwrhZyuX6iqFbyfCdzYE9AFCJVG47Eh5dMM=
+cloud.google.com/go/asset v1.19.0 h1:D1fzO6/fdMkGA7Lxrv/in2ahVm59DAe1EMMaDt33v9k=
+cloud.google.com/go/asset v1.19.0/go.mod h1:eW/d/F3g1Pr07U7nNUhj2AI1e1AVgs3+j8inYS5QBl0=
 cloud.google.com/go/assuredworkloads v1.5.0/go.mod h1:n8HOZ6pff6re5KYfBXcFvSViQjDwxFkAkmUFffJRbbY=
 cloud.google.com/go/assuredworkloads v1.6.0/go.mod h1:yo2YOk37Yc89Rsd5QMVECvjaMKymF9OP+QXWlKXUkXw=
 cloud.google.com/go/assuredworkloads v1.7.0/go.mod h1:z/736/oNmtGAyU47reJgGN+KVoYoxeLBoj4XkKYscNI=
