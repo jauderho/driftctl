@@ -21,7 +21,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/bmatcuk/doublestar/v4 v4.0.1
 	github.com/eapache/go-resiliency v1.3.0
-	github.com/fatih/color v1.9.0
+	github.com/fatih/color v1.17.0
 	github.com/getkin/kin-openapi v0.75.0
 	github.com/getsentry/sentry-go v0.10.0
 	github.com/ghodss/yaml v1.0.0
@@ -121,8 +121,8 @@ require (
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/mailru/easyjson v0.0.0-20190626092158-b2ccc519800e // indirect
-	github.com/mattn/go-colorable v0.1.7 // indirect
-	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
